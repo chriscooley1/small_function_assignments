@@ -1,1 +1,1 @@
-Basic Math Funcitons
+Small Function Assignments
